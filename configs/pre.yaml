@@ -1,0 +1,7 @@
+# 预发布环境配置
+http:
+  addr: ":8082"
+mysql:
+  dsn: "root:4ay1nkal3u8ed77y@tcp(115.190.63.207:3306)/pre_db?charset=utf8mb4"
+log:
+  level: "warn"

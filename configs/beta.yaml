@@ -1,0 +1,7 @@
+# 测试环境配置
+http:
+  addr: ":8081"
+mysql:
+  dsn: "root:123456@tcp(127.0.0.1:3306)/beta_db?charset=utf8mb4"
+log:
+  level: "info"
